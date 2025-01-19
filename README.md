@@ -1,6 +1,6 @@
 # Voice-Audio-Generator-Regression
 
-Artificial Intelligence Project Focused on Audio Generator Models ( NLP )
+Artificial Intelligence Project Focused on Audio Generator Models (NLP)
 
 A neural network project for generating audio samples. This project leverages advanced neural architectures trained on diverse human voice recordings to create high-quality, synthesized audio.
 
